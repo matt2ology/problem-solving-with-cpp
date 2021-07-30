@@ -26,4 +26,5 @@ Working on [c03p05-more-flow-of-control](c03p05-more-flow-of-control/README.MD)
 
 - [#include \<cstdio\>](https://www.cplusplus.com/reference/cstdio/): Input and Output operations can also be performed in C++ using the C Standard Input and Output Library (cstdio, known as stdio.h in the C language)
 
-Problem solving with C++ Book by Walter Savitch
+- [#include <stdlib.h>](https://www.tutorialspoint.com/c_standard_library/stdlib_h.htm): The stdlib.h header defines four variable types, several macros, and various functions for performing general functions.
+  - To enable `EXIT_SUCCESS`
