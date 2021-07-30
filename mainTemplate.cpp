@@ -1,7 +1,5 @@
 //File Name: health.cpp (Your system may require some suffix other than cpp.)
 //Author: matt2ology
-//Email Address: you@yourmachine.bla.bla
-//Assignment Number: 2
 //Description: Program to determine if the user is ill.
 //Last Changed: September 23, 2006
 
