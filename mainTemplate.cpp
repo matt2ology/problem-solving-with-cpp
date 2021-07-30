@@ -4,22 +4,22 @@
 //Last Changed: September 23, 2006
 
 #include <iostream>
-using namespace std;
+
 int main()
 {
     const double NORMAL = 98.6; //degrees Fahrenheit
     double temperature;
-    cout << "Enter your temperature: ";
-    cin >> temperature;
+    std::cout << "Enter your temperature: ";
+    std::cin >> temperature;
     if (temperature > NORMAL)
     {
-        cout << "You have a fever.\n";
-        cout << "Drink lots of liquids and get to bed.\n";
+        std::cout << "You have a fever.\n";
+        std::cout << "Drink lots of liquids and get to bed.\n";
     }
     else
     {
-        cout << "You don't have a fever.\n";
-        cout << "Go study.\n";
+        std::cout << "You don't have a fever.\n";
+        std::cout << "Go study.\n";
     }
     system("pause");
     EXIT_SUCCESS; // return 0;
