@@ -29,3 +29,5 @@ Working on [c03p05-more-flow-of-control](c03p05-more-flow-of-control/README.MD)
 
 - [#include <stdlib.h>](https://www.tutorialspoint.com/c_standard_library/stdlib_h.htm): The stdlib.h header defines four variable types, several macros, and various functions for performing general functions.
   - To enable `EXIT_SUCCESS`
+
+- [#include \<string\>](https://www.w3schools.com/cpp/cpp_strings.asp): Strings are used for storing text.
