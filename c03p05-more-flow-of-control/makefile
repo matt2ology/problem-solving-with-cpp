@@ -7,7 +7,7 @@ run:
 	./longDistantCallCalculator
 
 clean:
-	rm -f longDistantCallCalculator.exe main.exe longDistantCallCalculator
+	rm -f longDistantCallCalculator.exe main.exe longDistantCallCalculator main
 	
 edit:
 	vim main.c
