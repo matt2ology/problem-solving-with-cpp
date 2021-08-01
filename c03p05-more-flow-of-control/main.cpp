@@ -1,4 +1,4 @@
-//File Name: LongDistantCallCalculator.cpp
+//File Name: main.cpp
 //Author: matt2ology
 //Description: Program that computes the cost of a long-distance call.
 //Last Changed: July 30, 2021
