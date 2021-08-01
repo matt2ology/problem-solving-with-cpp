@@ -38,6 +38,6 @@ int main()
     std::cout << "Time the call started: " << twenty_four_hour_input << std::endl;
     std::cout << "Call duration in minutes: " << call_duration << std::endl;
 
-    system("pause");
+    system("pause"); // For windows executable (.exe) - Not needed in Linux
     EXIT_SUCCESS; // return 0;
 }
